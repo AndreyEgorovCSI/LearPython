@@ -11,3 +11,5 @@ route = 866
 print(route, type(route))
 route = "North"
 print(route, type(route))
+"Denmark", "Finland", "Norway", "Sweden"
+# часть набросал прямо в консоли :)
